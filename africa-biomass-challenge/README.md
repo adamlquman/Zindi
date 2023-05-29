@@ -8,3 +8,4 @@ In this challenge, the objective is to predict biomass in shaded regions in Cote
 
 
 </p>
+ Competition Link : https://zindi.africa/competitions/africa-biomass-challenge
