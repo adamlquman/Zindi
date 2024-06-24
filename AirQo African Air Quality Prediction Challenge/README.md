@@ -1,12 +1,6 @@
-<h1><b></b>Description</h1>
-<p>The people of Malawi have experienced an array of natural disasters and climatic shocks in recent years, including droughts, floods and landslides. The economic impacts of these disasters, coupled with Covid-19 and other global issues, negatively affect the health and wellbeing of most Malawians. People living in rural areas (more than 80% of Malawians) have been hit hardest.
+<h1><b>Description</b></h1>
+<p>Air pollution is the world’s largest environmental health risk, contributing to 7 million premature deaths globally each year, and poor people in developing countries are the most heavily affected. Low-cost IoT sensor networks on the ground have the potential to close the climate data gaps in sub-Saharan Africa, but networks are expensive to implement and maintain in African cities.
 
-There have been great strides in mapping flood extents and corresponding damages caused by these floods around the world, using satellite imagery. However, there are still gaps in determining the real number of affected populations, especially in rural areas in Malawi. Many houses in rural areas are often constructed with traditional grass-thatched roofs, and these are missed by the algorithms using satellite or aerial imagery to count populations or identify buildings affected by floods.
+Satellite-derived PM2.5 estimates based on Aerosol Optical Depth (AOD) and machine learning techniques can be used to estimate pollution levels over large areas to help develop interventions such as vulnerability risk profiles for urban spaces, health preservation and environmental protection for affected populations, as well as community empowerment, and climate change mitigation.
 
-The objective of this competition is to create a machine-learning algorithm that counts the number of grass-thatch, tin and other roofed houses in aerial (drone) imagery. Ensuring more accurate estimates of affected populations in the case of a disaster allows these communities to be evacuated or for aid to be provided more effectively, helping to improve response times and save lives in rural Malawi.</p>
-
-<h4><b>Comptetion Link:https://zindi.africa/competitions/arm-unicef-disaster-vulnerability-challenge</b></h4>
-<h4><b> Team : https://github.com/A7med7x7</b></h4>
-<h4><b> Mean Absolute Error:0.310326086</b></h4>
-
-
+In this challenge, you are asked to estimate PM2.5 levels from satellite observations based on Aerosol Optical Depth (AOD) for eight cities in seven African countries - Lagos, Accra, Nairobi, Yaounde, Bujumbura, Kisumu, Kampala, and Gulu - with varying ground monitoring resolutions, using appropriate machine learning algorithms. Ground-based observations in the selected cities will be used to validate the satellite estimates.</p>
