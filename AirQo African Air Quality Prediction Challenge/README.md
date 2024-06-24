@@ -4,3 +4,8 @@
 Satellite-derived PM2.5 estimates based on Aerosol Optical Depth (AOD) and machine learning techniques can be used to estimate pollution levels over large areas to help develop interventions such as vulnerability risk profiles for urban spaces, health preservation and environmental protection for affected populations, as well as community empowerment, and climate change mitigation.
 
 In this challenge, you are asked to estimate PM2.5 levels from satellite observations based on Aerosol Optical Depth (AOD) for eight cities in seven African countries - Lagos, Accra, Nairobi, Yaounde, Bujumbura, Kisumu, Kampala, and Gulu - with varying ground monitoring resolutions, using appropriate machine learning algorithms. Ground-based observations in the selected cities will be used to validate the satellite estimates.</p>
+<h4><b>Comptetion Link:https:https://zindi.africa/competitions/airqo-african-air-quality-prediction-challenge</b></h4>
+<h4><b> Team : <a href='https://github.com/A7med7x7'>Ahmed Alghali</a>| <a href='https://github.com/karamKaramAlla'>karam-elhaj</a>| <a href='https://yousif-shaheen-145574294/'>Yousif Shaheen</a></b></h4>
+<h4><b> RMSE:16.90732355</b></h4>
+<h4><b> Achive:3rd Place</b></h4>
+
